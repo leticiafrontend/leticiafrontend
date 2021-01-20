@@ -1,7 +1,7 @@
 ### Olá, eu sou a Letícia 👋
 
 - 👩 Atualmente trabalho na **BLU365**, como Desenvolvedora Web.
-- 🌱 Estudando no momento: **React e Styled-components**.
+- 🌱 Estudando no momento: **React e VueJS**.
 - 💙 Interesses: UI/UX 💻 e Games 👾.
 
 ### Linguagens e Ferramentas:
