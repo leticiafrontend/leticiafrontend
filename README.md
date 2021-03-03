@@ -1,6 +1,6 @@
 ### Olá, eu sou a Letícia 👋
 
-- 👩 Atualmente trabalho na **BLU365**, como Desenvolvedora Web.
+- 👩 Atualmente trabalho na **Digitalk**, como Desenvolvedora Front End.
 - 🌱 Estudando no momento: **React e VueJS**.
 - 💙 Interesses: UI/UX 💻 e Games 👾.
 
