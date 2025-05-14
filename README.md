@@ -46,7 +46,7 @@ When I'm away from the keyboard, you can find me traveling the world, exploring 
     <img src="https://zustand-demo.pmnd.rs/favicon.ico" alt="Zustand" width="20" height="20"/>
   </a>
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://tanstack.com/_build/assets/splash-dark-8nwlc0Nt.png" alt="TanStack Query (React Query)" width="20" height="20"/>
+    <img src="https://tanstack.com/assets/logo-color-100w-br5_Ikqp.png" alt="TanStack Query (React Query)" width="20" height="20"/>
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="20" height="20"/>
